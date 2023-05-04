@@ -1,0 +1,6 @@
+4
+2 AB BC
+2 BA a
+2 CC b
+2 AB a
+baaba

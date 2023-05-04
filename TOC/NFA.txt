@@ -1,0 +1,8 @@
+3
+a b c
+a
+1
+c
+ab b
+a c
+c #
